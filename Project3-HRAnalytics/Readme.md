@@ -1,6 +1,6 @@
 # HR Analytics Dashboard Project
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](HR Viz.jpg)
 
 Welcome to my HR Analytics Dashboard project, created during my internship at MeriSKILL. This project focuses on enhancing and visualizing HR data for insightful analytics.
 
